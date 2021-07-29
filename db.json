@@ -1,0 +1,57 @@
+{
+  "users":[
+    {
+      "id":1,
+      "name":"Arnol Guevara",
+      "username":"arnolguevara",
+      "email":"arolguevara@gmail.com",
+      "image":"http://cemokalab.com/wp-content/uploads/2015/07/avatar-372-456324.png"
+    },
+    {
+      "id":1,
+      "name":"Edson Guevara",
+      "username":"edsonguevara",
+      "email":"edsonguevara@gmail.com",
+      "image":"http://cemokalab.com/wp-content/uploads/2015/07/avatar-372-456324.png"
+    },
+    {
+      "id":1,
+      "name":"Erika Guevara",
+      "username":"erikaguevara",
+      "email":"erikaguevara@gmail.com",
+      "image":"http://cemokalab.com/wp-content/uploads/2015/07/avatar-372-456324.png"
+    }
+  ],
+  "posts":[
+    {
+      "id":1,
+      "title":"¿Por qué adoptar animales?",
+      "body":"Pienso que es importante adoptar porque...",
+      "userId":1
+    },
+    {
+      "id":2,
+      "title":"¿Qué pienso del calentamiento global?",
+      "body":"Deberíamos hacer algo con este problema...",
+      "userId":1
+    },
+    {
+      "id":2,
+      "title":"¿Cómo crear mi propia empresa?",
+      "body":"Antes, necesitas saber que...",
+      "userId":2
+    }
+  ],
+  "comments":[
+    {
+      "id":1,
+      "body":"some comment",
+      "postId":1
+    },
+    {
+      "id":2,
+      "body":"some comment",
+      "postId":1
+    }
+  ]
+}
